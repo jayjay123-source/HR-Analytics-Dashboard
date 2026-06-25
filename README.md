@@ -42,8 +42,7 @@ The analytical engine processes 38 distinct employee dimensions, categorized int
 * **Global Interactivity Control:** Wired high-impact vertical Slicers (**MaritalStatus**, **Department**, and **BusinessTravel**) across all background summaries via cross-pivot **Report Connections**, enabling a fully synchronous, multi-chart filtering user experience.
 
 ## Final Dashboard Preview
-![HR Analytics Executive Interface](Screenshot%202026-06-24%20124126_2.png)
-
+![HR Analytics Executive Interface](dashboard.png)
 ## How to Interact with the Project
 1. Clone or download the `HR_Analytics_Dashboard.xlsx` file from this repository.
 2. Open the file in Microsoft Excel (Desktop app optimized).
